@@ -99,3 +99,8 @@ inquiry flows.
 ---
 
 ⭐ Explore my portfolio to learn more about my projects, skills, and experience.
+## 🌐 Connect With Me
+
+- **Portfolio:** https://muhammadtalhaa.netlify.app/
+- **LinkedIn:** https://www.linkedin.com/in/talha-khan-3b8414403
+- **GitHub:** https://github.com/ThomasShelby121
